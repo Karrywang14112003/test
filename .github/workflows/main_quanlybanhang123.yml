@@ -63,4 +63,4 @@ jobs:
           app-name: 'QuanLyBanHang123'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CBFC9B8667FD4E41BC47E8D8FEB33EFC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_72FDD42011364FD49BF21E7B46C5E719 }}
